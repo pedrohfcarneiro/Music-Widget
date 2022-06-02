@@ -2,49 +2,43 @@ let allMusic = [
     {
         name: "In The End",
         artist: "Linkin Park",
-        img: "source",
-        src: "source"
+        img: "InTheEnd.jpg",
+        src: "InTheEnd"
     },
     {
         name: "Lying From You",
         artist: "Linkin Park",
-        img: "source",
-        src: "source"
+        img: "LyingFromYou.jpg",
+        src: "LyingFromYou"
     },
     {
         name: "What I've Done",
         artist: "Linkin Park",
         img: "WhatI'veDone2.jpg",
-        src: "What I've Done"
+        src: "WhatIveDone"
     },
     {
         name: "Numb/Encore",
-        artist: "Linkin Park",
-        img: "source",
-        src: "source"
+        artist: "Linkin Park feat. Jay-Z",
+        img: "NumbEncore.jpg",
+        src: "Numb_Encore"
     },
     {
-        name: "In the end",
+        name: "Shadow Of The Day",
         artist: "Linkin Park",
-        img: "source",
-        src: "source"
+        img: "Shadow.jpg",
+        src: "ShadowOfTheDay"
     },
     {
-        name: "In the end",
+        name: "Breaking the Habit",
         artist: "Linkin Park",
-        img: "source",
-        src: "source"
+        img: "Breaking.jpg",
+        src: "BreakingTheHabit"
     },
     {
-        name: "In the end",
+        name: "Leave Out All The Rest",
         artist: "Linkin Park",
-        img: "source",
-        src: "source"
-    },
-    {
-        name: "In the end",
-        artist: "Linkin Park",
-        img: "source",
-        src: "source"
+        img: "Leave.jpg",
+        src: "LeaveOutAllTheRest"
     }
 ]

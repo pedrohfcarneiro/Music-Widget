@@ -162,6 +162,10 @@ body {
     justify-content: space-between;
 }
 
+.music-list #close {
+    cursor: pointer;
+}
+
 .music-list ul {
     margin: 10px 0;
     max-height: 260px;
@@ -190,4 +194,9 @@ body {
 
 ul li .row p {
     opacity: 0.8;
+}
+
+ul li.playing {
+    color: rgb(158, 158, 238);
+    pointer-events: none;
 }
